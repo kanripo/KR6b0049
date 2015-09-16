@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:15.366475
+#+DATE: 2015-08-30 19:35:16.238446
 #+TITLE: 佛所行讚
 #+PROPERTY: CBETA_ID T04n0192
 #+PROPERTY: ID KR6b0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 192
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS 【大→UNKNOWN】
 #+PROPERTY: LASTPB <pb:KR6b0049_T_005-0042b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 5
 ¶
 ¶
-
- 《佛所行讚》卷第五(亦云佛本行經)¶
+《佛所行讚》卷第五(亦云佛本行經)¶
 ¶
 馬鳴菩薩造¶
 北涼天竺三藏曇無讖譯¶
 
-23神力住壽品
-:PROPERTIES:
-:head: 神力住壽品第二十三
-:END:
-¶
+神力住壽品第二十三¶
 
 #+BEGIN_VERSE
 「　爾時鞞舍離，
@@ -286,11 +281,7 @@
 #+END_VERSE
 」¶
 
-24離車辭別品
-:PROPERTIES:
-:head: 《佛所行讚》離車辭別品第二十四
-:END:
-¶
+《佛所行讚》離車辭別品第二十四¶
 
 #+BEGIN_VERSE
 「　尊者阿難陀，
@@ -318,7 +309,7 @@
 　所聞法悉忘，
 　荒悸亡天地。¶
 　怪哉救世主，
-　滅度一何駃，¶
+　滅度一可駛，¶
 　遭寒水垂死，
 　遇火忽復滅。¶
 　於煩惱曠野，
@@ -509,11 +500,7 @@
 #+END_VERSE
 」¶
 
-25涅槃品
-:PROPERTIES:
-:head: 《佛所行讚》涅槃品第二十五
-:END:
-¶
+《佛所行讚》涅槃品第二十五¶
 
 #+BEGIN_VERSE
 「　佛至涅槃處，
@@ -688,7 +675,7 @@
 　猶如鍊金師，
 　燒打而取真。¶
 　不知諸經論，
-　是則非黠慧，¶
+　是則非[烈-列+(里*吉)]慧，¶
 　不應說所應，
 　應作不應見。¶
 　當作平等受，
@@ -859,11 +846,7 @@
 #+END_VERSE
 」¶
 
-26大般涅槃品
-:PROPERTIES:
-:head: 《佛所行讚》大般涅槃品第二十六
-:END:
-¶
+《佛所行讚》大般涅槃品第二十六¶
 
 #+BEGIN_VERSE
 「　爾時有梵志，
@@ -1402,11 +1385,7 @@
 #+END_VERSE
 」¶
 
-27歎涅槃品
-:PROPERTIES:
-:head: 《佛所行讚》歎涅槃品第二十七
-:END:
-¶
+《佛所行讚》歎涅槃品第二十七¶
 
 #+BEGIN_VERSE
 「　時有一天子，
@@ -1829,11 +1808,7 @@
 #+END_VERSE
 」¶
 
-28分舍利品
-:PROPERTIES:
-:head: 《佛所行讚》分舍利品第二十八
-:END:
-¶
+《佛所行讚》分舍利品第二十八¶
 
 #+BEGIN_VERSE
 「　彼諸力士眾，
@@ -1869,7 +1844,7 @@
 　生業悉破壞，¶
 　嚴備戰鬪具，
 　以擬於外敵，¶
-　弓弩𢱍石車，
+　弓弩[打-丁+勉]石車，
 　飛炬獨發來。¶
 　七王圍遶城，
 　軍眾各精銳，¶
