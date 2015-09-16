@@ -1,27 +1,22 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:35:15.312409
+#+DATE: 2015-08-30 19:35:18.184271
 #+TITLE: 佛所行讚
 #+PROPERTY: CBETA_ID T04n0192
 #+PROPERTY: ID KR6b0049
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 192
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6b0049_T_004-0030c> ¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
 ¶
 ¶
-
- 《佛所行讚》卷第四(亦云佛本行經)¶
+《佛所行讚》卷第四(亦云佛本行經)¶
 ¶
 馬鳴菩薩造¶
 北涼天竺三藏曇無讖譯¶
 
-16瓶沙王諸弟子品
-:PROPERTIES:
-:head: 瓶沙王諸弟子品第十六
-:END:
-¶
+瓶沙王諸弟子品第十六¶
 
 #+BEGIN_VERSE
 「　時彼五比丘，
@@ -446,11 +441,7 @@
 #+END_VERSE
 」¶
 
-17大弟子出家品
-:PROPERTIES:
-:head: 《佛所行讚》大弟子出家品第十七
-:END:
-¶
+《佛所行讚》大弟子出家品第十七¶
 
 #+BEGIN_VERSE
 「　爾時瓶沙王，
@@ -666,11 +657,7 @@
 #+END_VERSE
 」¶
 
-18化給孤獨品
-:PROPERTIES:
-:head: 《佛所行讚》化給孤獨品第十八
-:END:
-¶
+《佛所行讚》化給孤獨品第十八¶
 
 #+BEGIN_VERSE
 「　時有大長者，
@@ -1089,11 +1076,7 @@
 #+END_VERSE
 」¶
 
-19父子相見品
-:PROPERTIES:
-:head: 《佛所行讚》父子相見品第十九
-:END:
-¶
+《佛所行讚》父子相見品第十九¶
 
 #+BEGIN_VERSE
 「　佛於摩竭國，
@@ -1412,11 +1395,7 @@
 #+END_VERSE
 」¶
 
-20受祇桓精舍品
-:PROPERTIES:
-:head: 《佛所行讚》受祇桓精舍品第二十
-:END:
-¶
+《佛所行讚》受祇桓精舍品第二十¶
 
 #+BEGIN_VERSE
 「　世尊已開化，
@@ -1685,11 +1664,7 @@
 #+END_VERSE
 」¶
 
-21守財醉象調伏品
-:PROPERTIES:
-:head: 《佛所行讚》守財醉象調伏品第二十一
-:END:
-¶
+《佛所行讚》守財醉象調伏品第二十一¶
 
 #+BEGIN_VERSE
 「　天上教化母，
@@ -1933,11 +1908,7 @@
 #+END_VERSE
 」¶
 
-22菴摩羅女見佛品
-:PROPERTIES:
-:head: 《佛所行讚》菴摩羅女見佛品第二十二
-:END:
-¶
+《佛所行讚》菴摩羅女見佛品第二十二¶
 
 #+BEGIN_VERSE
 「　世尊廣化畢，
